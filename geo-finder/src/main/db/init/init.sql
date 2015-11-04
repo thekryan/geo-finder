@@ -11,15 +11,12 @@ INSERT INTO geo_objects (name, address, object_types_id, coords)
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Royal", "Jana Matejki 10, Gliwice", 1, GeomFromText( 'POINT(18.667894 50.293329)' ));
 
-
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Trzy Œwiaty", "Jana Kilñiskiego 14a, Gliwice", 1, GeomFromText( 'POINT(18.670618 50.276505)' ));
-
 
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Novotel", "Aleja Walentego RoŸdzieñskiego 16, 40-202 Katowice", 1, 
 			GeomFromText( 'POINT(19.033341 50.261168)' ));
-
 
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Radisson Blu Sobieski Hotel", "Plac Artura Zawiszy 1, 02-025 Warszawa", 1, 
@@ -69,13 +66,9 @@ INSERT INTO geo_objects (name, address, object_types_id, coords)
 	VALUES("ING Bank Slaski", "Franciszka Zubrzyckiego 18 Gliwice", 3, 
 			GeomFromText( 'POINT(18.666759 50.283444)' ));
 
-
-
-
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Indian Dreams. Restauracja indyjska", "Dolnych Wa³ów 5 44-100 Gliwice", 2, 
 			GeomFromText( 'POINT(18.668346 50.294562)' ));
-
 
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Sphinx", "Plac Wolnoœci Zabrze", 2, 
@@ -85,7 +78,6 @@ INSERT INTO geo_objects (name, address, object_types_id, coords)
 	VALUES("Zajazd Bachus - Hotel Restauracja", "Stanis³awa Staszica 42 41-303 D¹browa Górnicza", 2, 
 			GeomFromText( 'POINT(19.220409 50.317682)' ));
 
-
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Restauracja Leœna", "Brunona Jasieñskiego 88 41-215 Sosnowiec", 2, 
 			GeomFromText( 'POINT(19.243755 50.301292)' ));
@@ -93,7 +85,6 @@ INSERT INTO geo_objects (name, address, object_types_id, coords)
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Caprese Pizzeria i Restauracja", "Kasztanowa 3 41-200 Sosnowiec", 2, 
 			GeomFromText( 'POINT(19.128914 50.294987)' ));
-
 
 INSERT INTO geo_objects (name, address, object_types_id, coords) 
 	VALUES("Sicilia", "Jana Kochanowskiego 2 Katowice", 2, 
