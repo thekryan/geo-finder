@@ -18,5 +18,4 @@ public abstract class GenericDAO {
     public GenericDAO(DataSource dataSource) {
         this.dataSource = dataSource;
     }
-
 }
