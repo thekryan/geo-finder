@@ -3,7 +3,7 @@
   <groupId>org.gkrajewski.geofinder</groupId>
   <artifactId>geo-finder-client</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Klient testowy geo-findera</name>
+  <name>klient testowy geo-findera</name>
   <dependencies>
   	<dependency>
   		<groupId>com.sun.jersey</groupId>
