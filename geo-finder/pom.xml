@@ -13,13 +13,10 @@
 				<version>2.1-beta-1</version>
 				<configuration>
 					<warSourceDirectory>WebContent</warSourceDirectory>
-					<failOnMissingWebXml>false</failOnMissingWebXml>
-					
-					
+					<failOnMissingWebXml>false</failOnMissingWebXml>					
 				</configuration>
 		</plugin>
 	</plugins>  
-  
   </build>
   
   <dependencies>
